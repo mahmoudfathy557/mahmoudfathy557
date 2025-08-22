@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahmoudfathy557
+- 👋 Hi, I’m Mahmoud Fathy 
 - 👀 I’m interested in software engineering and AI 🤖
 - 🌱 I’m currently learning web 3 AKA blockchain
 - 💞️ I’m looking to collaborate on developing better programming skills and community
