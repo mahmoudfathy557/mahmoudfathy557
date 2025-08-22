@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahmoudfathy557
-- 👀 I’m interested in software engineering 
+- 👀 I’m interested in software engineering and AI 🤖
 - 🌱 I’m currently learning web 3 AKA blockchain
 - 💞️ I’m looking to collaborate on developing better programming skills and community
 - 📫 How to reach me Gmail: mahmoudfathy2424@gmail.com && Mobile: +201022014166
